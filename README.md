@@ -1,4 +1,4 @@
-[![license](http://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://raw.githubusercontent.com/walle/tyda.rb/master/LICENSE)
+[![license](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://raw.githubusercontent.com/walle/tyda.rb/master/LICENSE)
 
 # tyda.rb
 
