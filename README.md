@@ -1,5 +1,3 @@
-[![Build Status](https://img.shields.io/travis/walle/tyda.rb.svg?style=flat)](https://travis-ci.org/walle/tyda.rb)
-[![Coverage](https://img.shields.io/codecov/c/github/walle/tyda.rb.svg?style=flat)](https://codecov.io/github/walle/tyda.rb)
 [![license](http://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://raw.githubusercontent.com/walle/tyda.rb/master/LICENSE)
 
 # tyda.rb
@@ -39,11 +37,6 @@ options:
                          Languages to translate to (en fr de es la nb sv) [default: [en]]
   --help, -h             display this help and exit
 ```
-
-## Contributing
-
-All contributions are welcome! See [CONTRIBUTING](CONTRIBUTING.md) for more
-info.
 
 ## License
 
